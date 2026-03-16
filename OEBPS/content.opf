@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="3.0" unique-identifier="BookId" xmlns="http://www.idpf.org/2007/opf">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId">urn:uuid:76072478-0552-4cc3-bf35-7f7e58294e68</dc:identifier>
+    <dc:language>en</dc:language>
+    <dc:title>The Two Fishermen</dc:title>
+    <meta property="dcterms:modified">2025-08-25T16:42:30Z</meta>
+    <meta name="Sigil version" content="2.6.0"/>
+  </metadata>
+  <manifest>
+    <item id="sgc-nav.css" href="Styles/sgc-nav.css" media-type="text/css"/>
+    <item id="nav.xhtml" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="tarot.js" href="Misc/tarot.js" media-type="application/javascript"/>
+    <item id="styles.css" href="Styles/styles.css" media-type="text/css"/>
+    <item id="am_amoureux.jpeg" href="Images/am_amoureux.jpeg" media-type="image/jpeg"/>
+    <item id="am_bateleur.jpeg" href="Images/am_bateleur.jpeg" media-type="image/jpeg"/>
+    <item id="am_chariot.jpeg" href="Images/am_chariot.jpeg" media-type="image/jpeg"/>
+    <item id="am_diable.jpeg" href="Images/am_diable.jpeg" media-type="image/jpeg"/>
+    <item id="am_empereur.jpeg" href="Images/am_empereur.jpeg" media-type="image/jpeg"/>
+    <item id="am_etoile.jpeg" href="Images/am_etoile.jpeg" media-type="image/jpeg"/>
+    <item id="am_force.jpeg" href="Images/am_force.jpeg" media-type="image/jpeg"/>
+    <item id="am_hermite.jpeg" href="Images/am_hermite.jpeg" media-type="image/jpeg"/>
+    <item id="am_imperatrice.jpeg" href="Images/am_imperatrice.jpeg" media-type="image/jpeg"/>
+    <item id="am_jugement.jpeg" href="Images/am_jugement.jpeg" media-type="image/jpeg"/>
+    <item id="am_justice.jpeg" href="Images/am_justice.jpeg" media-type="image/jpeg"/>
+    <item id="am_lune.jpeg" href="Images/am_lune.jpeg" media-type="image/jpeg"/>
+    <item id="am_maison_dieu.jpeg" href="Images/am_maison_dieu.jpeg" media-type="image/jpeg"/>
+    <item id="am_monde.jpeg" href="Images/am_monde.jpeg" media-type="image/jpeg"/>
+    <item id="am_pape.jpeg" href="Images/am_pape.jpeg" media-type="image/jpeg"/>
+    <item id="am_papesse.jpeg" href="Images/am_papesse.jpeg" media-type="image/jpeg"/>
+    <item id="am_pendu.jpeg" href="Images/am_pendu.jpeg" media-type="image/jpeg"/>
+    <item id="am_roue_fortune.jpeg" href="Images/am_roue_fortune.jpeg" media-type="image/jpeg"/>
+    <item id="am_sans_nom.jpeg" href="Images/am_sans_nom.jpeg" media-type="image/jpeg"/>
+    <item id="am_soleil.jpeg" href="Images/am_soleil.jpeg" media-type="image/jpeg"/>
+    <item id="am_temperance.jpeg" href="Images/am_temperance.jpeg" media-type="image/jpeg"/>
+    <item id="baton_01.jpeg" href="Images/baton_01.jpeg" media-type="image/jpeg"/>
+    <item id="baton_02.jpeg" href="Images/baton_02.jpeg" media-type="image/jpeg"/>
+    <item id="baton_03.jpeg" href="Images/baton_03.jpeg" media-type="image/jpeg"/>
+    <item id="baton_04.jpeg" href="Images/baton_04.jpeg" media-type="image/jpeg"/>
+    <item id="baton_05.jpeg" href="Images/baton_05.jpeg" media-type="image/jpeg"/>
+    <item id="baton_06.jpeg" href="Images/baton_06.jpeg" media-type="image/jpeg"/>
+    <item id="baton_07.jpeg" href="Images/baton_07.jpeg" media-type="image/jpeg"/>
+    <item id="baton_08.jpeg" href="Images/baton_08.jpeg" media-type="image/jpeg"/>
+    <item id="baton_09.jpeg" href="Images/baton_09.jpeg" media-type="image/jpeg"/>
+    <item id="baton_10.jpeg" href="Images/baton_10.jpeg" media-type="image/jpeg"/>
+    <item id="baton_cavalier.jpeg" href="Images/baton_cavalier.jpeg" media-type="image/jpeg"/>
+    <item id="baton_reine.jpeg" href="Images/baton_reine.jpeg" media-type="image/jpeg"/>
+    <item id="baton_roi.jpeg" href="Images/baton_roi.jpeg" media-type="image/jpeg"/>
+    <item id="baton_valet.jpeg" href="Images/baton_valet.jpeg" media-type="image/jpeg"/>
+    <item id="coupe_01.jpeg" href="Images/coupe_01.jpeg" media-type="image/jpeg"/>
+    <item id="coupe_02.jpeg" href="Images/coupe_02.jpeg" media-type="image/jpeg"/>
+    <item id="coupe_03.jpeg" href="Images/coupe_03.jpeg" media-type="image/jpeg"/>
+    <item id="coupe_04.jpeg" href="Images/coupe_04.jpeg" media-type="image/jpeg"/>
+    <item id="coupe_05.jpeg" href="Images/coupe_05.jpeg" media-type="image/jpeg"/>
+    <item id="coupe_06.jpeg" href="Images/coupe_06.jpeg" media-type="image/jpeg"/>
+    <item id="coupe_07.jpeg" href="Images/coupe_07.jpeg" media-type="image/jpeg"/>
+    <item id="coupe_08.jpeg" href="Images/coupe_08.jpeg" media-type="image/jpeg"/>
+    <item id="coupe_09.jpeg" href="Images/coupe_09.jpeg" media-type="image/jpeg"/>
+    <item id="coupe_10.jpeg" href="Images/coupe_10.jpeg" media-type="image/jpeg"/>
+    <item id="coupe_cavalier.jpeg" href="Images/coupe_cavalier.jpeg" media-type="image/jpeg"/>
+    <item id="coupe_reine.jpeg" href="Images/coupe_reine.jpeg" media-type="image/jpeg"/>
+    <item id="coupe_roi.jpeg" href="Images/coupe_roi.jpeg" media-type="image/jpeg"/>
+    <item id="coupe_valet.jpeg" href="Images/coupe_valet.jpeg" media-type="image/jpeg"/>
+    <item id="deniers_01.jpeg" href="Images/deniers_01.jpeg" media-type="image/jpeg"/>
+    <item id="deniers_02.jpeg" href="Images/deniers_02.jpeg" media-type="image/jpeg"/>
+    <item id="deniers_03.jpeg" href="Images/deniers_03.jpeg" media-type="image/jpeg"/>
+    <item id="deniers_04.jpeg" href="Images/deniers_04.jpeg" media-type="image/jpeg"/>
+    <item id="deniers_05.jpeg" href="Images/deniers_05.jpeg" media-type="image/jpeg"/>
+    <item id="deniers_06.jpeg" href="Images/deniers_06.jpeg" media-type="image/jpeg"/>
+    <item id="deniers_07.jpeg" href="Images/deniers_07.jpeg" media-type="image/jpeg"/>
+    <item id="deniers_08.jpeg" href="Images/deniers_08.jpeg" media-type="image/jpeg"/>
+    <item id="deniers_09.jpeg" href="Images/deniers_09.jpeg" media-type="image/jpeg"/>
+    <item id="deniers_10.jpeg" href="Images/deniers_10.jpeg" media-type="image/jpeg"/>
+    <item id="deniers_cavalier.jpeg" href="Images/deniers_cavalier.jpeg" media-type="image/jpeg"/>
+    <item id="deniers_reine.jpeg" href="Images/deniers_reine.jpeg" media-type="image/jpeg"/>
+    <item id="deniers_roi.jpeg" href="Images/deniers_roi.jpeg" media-type="image/jpeg"/>
+    <item id="deniers_valet.jpeg" href="Images/deniers_valet.jpeg" media-type="image/jpeg"/>
+    <item id="epee_01.jpeg" href="Images/epee_01.jpeg" media-type="image/jpeg"/>
+    <item id="epee_02.jpeg" href="Images/epee_02.jpeg" media-type="image/jpeg"/>
+    <item id="epee_03.jpeg" href="Images/epee_03.jpeg" media-type="image/jpeg"/>
+    <item id="epee_04.jpeg" href="Images/epee_04.jpeg" media-type="image/jpeg"/>
+    <item id="epee_05.jpeg" href="Images/epee_05.jpeg" media-type="image/jpeg"/>
+    <item id="epee_06.jpeg" href="Images/epee_06.jpeg" media-type="image/jpeg"/>
+    <item id="epee_07.jpeg" href="Images/epee_07.jpeg" media-type="image/jpeg"/>
+    <item id="epee_08.jpeg" href="Images/epee_08.jpeg" media-type="image/jpeg"/>
+    <item id="epee_09.jpeg" href="Images/epee_09.jpeg" media-type="image/jpeg"/>
+    <item id="epee_10.jpeg" href="Images/epee_10.jpeg" media-type="image/jpeg"/>
+    <item id="epee_cavalier.jpeg" href="Images/epee_cavalier.jpeg" media-type="image/jpeg"/>
+    <item id="epee_reine.jpeg" href="Images/epee_reine.jpeg" media-type="image/jpeg"/>
+    <item id="epee_roi.jpeg" href="Images/epee_roi.jpeg" media-type="image/jpeg"/>
+    <item id="epee_valet.jpeg" href="Images/epee_valet.jpeg" media-type="image/jpeg"/>
+    <item id="tarot_backside.jpeg" href="Images/tarot_backside.jpeg" media-type="image/jpeg"/>
+    <item id="introduction.xhtml" href="Text/introduction.xhtml" media-type="application/xhtml+xml"/>
+    <item id="chapter_01.xhtml" href="Text/chapter_01.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="chapter_02.xhtml" href="Text/chapter_02.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="chapter_03.xhtml" href="Text/chapter_03.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+    <item id="chapter_04.xhtml" href="Text/chapter_04.xhtml" media-type="application/xhtml+xml" properties="scripted"/>
+  </manifest>
+  <spine>
+    <itemref idref="introduction.xhtml"/>
+    <itemref idref="nav.xhtml" linear="no"/>
+    <itemref idref="chapter_01.xhtml"/>
+    <itemref idref="chapter_02.xhtml"/>
+    <itemref idref="chapter_03.xhtml"/>
+    <itemref idref="chapter_04.xhtml"/>
+  </spine>
+</package>
